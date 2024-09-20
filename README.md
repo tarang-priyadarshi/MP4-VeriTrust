@@ -1,6 +1,5 @@
 # MP4-VeriTrust
 # Indian Currency Note Classification and Damage Detection
-============================================================
 
 ## Overview
 -----------
@@ -22,4 +21,4 @@ This project aims to develop a comprehensive system for classifying Indian curre
 * **torchvision**: A library for computer vision
 
 ## PPT
-https://www.canva.com/design/DAGCpWqLNOc/J8M7qjkheO0TeR__akliXQ/edit?utm_content=DAGCpWqLNOc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAGCpWqLNOc/LMhYLHl4p-JOLDy9vViRAQ/view?utm_content=DAGCpWqLNOc&utm_campaign=designshare&utm_medium=link&utm_source=editor
